@@ -1,0 +1,12 @@
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\bin\Debug\03_FormsDialogs.exe.config
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\bin\Debug\03_FormsDialogs.exe
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\bin\Debug\03_FormsDialogs.pdb
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\03_FormsDialogs.csproj.AssemblyReference.cache
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\_03_FormsDialogs.Properties.Resources.resources
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\03_FormsDialogs.csproj.GenerateResource.cache
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\03_FormsDialogs.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\03_FormsDialogs.exe
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\03_FormsDialogs.pdb
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\_03_FormsDialogs.FormExample.resources
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\_03_FormsDialogs.FormMain.resources
+C:\Users\Wykładowca\source\repos\03_FormsDialogs\03_FormsDialogs\obj\Debug\_03_FormsDialogs.FormExampleDialog.resources
